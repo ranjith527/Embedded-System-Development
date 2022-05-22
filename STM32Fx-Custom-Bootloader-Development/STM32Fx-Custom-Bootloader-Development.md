@@ -36,4 +36,23 @@ And to know about Boot loader:
   - BL_FLASH_ERASE_CMD
   - BL_MEM_WRITE_CMD
 - **Options Bytes and Flash Sector protection**
-- **Exploring Host Application** 
+- **Exploring Host Application**
+
+---
+
+> ***Let's Begin the Journey***
+
+## Bootloader and Development Keywords
+
+- In-Circuit Debugger/Programmer (ICDP)
+- In Application Programming
+- In System Programming
+  
+  
+---
+
+## *About Bootloader*
+
+> ***Bootloader***
+> A Bootloader is nothing but a small piece of code stored in the MCU flash or ROM to act as an application loader as well as a mechanism to update the applications whenever required.
+
